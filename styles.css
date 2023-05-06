@@ -88,9 +88,9 @@
     flex: 1;
   }
 
-  .footer-three {
+  /* .footer-three {
     flex: 2;
-  }
+  } */
 
 .footer-one,
 .footer-three {
@@ -98,3 +98,7 @@
   flex: initial;
   width: 300px;
 }
+
+.signup {
+    margin-left: auto;
+  }
